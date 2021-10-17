@@ -1,0 +1,16 @@
+READ ME: 
+
+FOR DATASETS: 
+1. Copy this link " https://drive.google.com/drive/folders/1Gk7nrNwBUp3hOGcTjc18T5REtuH0W_4u?usp=sharing " to your browser and run it.
+2. Download folder name "CUB_19_2011 ", it will take some of your time , but please be patient. 
+3. Create  a folder name "Deep_Learning_Assignment" in your google drive.
+4. Upload downloaded "CUB_19_2011" to "Deep_Learning_Assignment" folder of your google drive. 
+
+RUNNING CODES:
+1. Upload "Bird_Species_Classification_with_MobilenetV2_for_Mobile_Vision_Application.ipynb" to folder - Deep_Learning_Assignment in google drive
+2. Open "Bird_Species_Classification_with_MobilenetV2_for_Mobile_Vision_Application.ipynb" in google colab.
+3. Run the code in google colab from top to down , to avoid any error. 
+
+
+
+[11/4/2021]
